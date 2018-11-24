@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# location:
+# /home/production/python/relay_1_on.py
+
 import sys
 import RPi.GPIO as GPIO
 
